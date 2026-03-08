@@ -4,7 +4,7 @@
 *.dll
 *.so
 *.dylib
-pg-diff
+/pg-diff
 dist/
 migrations/
 
